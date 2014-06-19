@@ -4,11 +4,11 @@ Cartridge-Short-Name: TOMCAT
 Cartridge-Vendor: atosworldline
 Cartridge-Version: 0.0.9
 Compatible-Versions: []
-Display-Name: Tomcat 7
+Display-Name: Tomcat 6
 Description: Tomcat Enterprise Web Server is the enterprise-class Java web container
-  for large-scale lightweight web applications based on Tomcat 7. Build and deploy
+  for large-scale lightweight web applications based on Tomcat 6. Build and deploy
   JSPs and Servlets in the cloud.
-Version: '7.0'
+Version: '6.0'
 Versions:
 - '7.0'
 - '6.0'
